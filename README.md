@@ -1,6 +1,8 @@
 angular-mobile-nav
 ==================
 
+[![Join the chat at https://gitter.im/swem/angular-mobile-nav](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/swem/angular-mobile-nav?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Demo](http://ajoslin.github.com/angular-mobile-nav) (Only will work in webkit browsers)
 
 [Download](http://ajoslin.github.com/angular-mobile-nav/mobile-nav.zip) (.zip)
