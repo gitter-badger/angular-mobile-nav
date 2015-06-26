@@ -1,6 +1,8 @@
 angular-mobile-nav
 ==================
 
+[![Join the chat at https://gitter.im/rainyear/angular-mobile-nav](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rainyear/angular-mobile-nav?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Demo](http://ajoslin.github.com/angular-mobile-nav) (Only will work in webkit browsers)
 
 [Download](http://ajoslin.github.com/angular-mobile-nav/mobile-nav.zip) (.zip)
@@ -13,8 +15,10 @@ State of this Project (as of July 2013)
 -------------------------------
 
 * I will add no new features to this - only continue to maintain it.
-* I am currently working on and recommending another project for a more full scale app solution - [angular-jqm](http://github.com/opitzconsulting/angular-jqm) ([dicusssion](https://github.com/ajoslin/angular-mobile-nav/issues/48#issuecomment-20045650))
-* angular-mobile-nav will remain a good solution for a minimal mobile angularjs navigation library, with no frills or addons.
+* I recommend a solution like [Ionic Framework](http://ionicframework.com) for a full-scale mobile application solution.
+* angular-mobile-nav is a good solution for a minimal mobile angularjs navigation library, with no frills or addons.
+* However, it could be done *much* simpler post angular-1.2.x, using ng-view, ng-animate, and some locationChangeSuccess listening to detect back.  
+* If you want to fix bugs with this, please email me and ask and I may make you a collaborator.
 
 Usage
 -----
